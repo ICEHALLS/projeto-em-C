@@ -1,0 +1,1 @@
+Esse foi um teste feito para aplicar o conteúdo do curso de git e GitHub oferecido pela Dio. Futuramente pretendo fazer a mesma coisa com projetos mais "complicados"
